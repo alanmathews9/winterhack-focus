@@ -1,5 +1,5 @@
-# winterhack_focus
-ABSTRACT:
+# FOCUS
+
 
 ADHD or attention deficit hyperactivity disorder is one of the if not the most common neurodevelopmental disorder that exists today. This disorder usually stems all the way from childhood until adulthood, so it is something that millions of people face. To put it into perspective, India alone has over 10 million cases of ADHD every year. 
 
